@@ -1,0 +1,29 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="&Atilde;&icirc;&euml;&icirc;&acirc;&iacute;&agrave; &ntilde;&ograve;&icirc;&eth;&sup3;&iacute;&ecirc;&agrave; &auml;&icirc;&acirc;&sup3;&auml;&ecirc;&egrave;">
+		<param name="Local" value="Загальні відомості про програму.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="&szlig;&ecirc; &eth;&aring;&agrave;&euml;&sup3;&ccedil;&oacute;&ordm;&ograve;&uuml;&ntilde;&yuml; &auml;&icirc;&auml;&agrave;&acirc;&agrave;&iacute;&iacute;&yuml; &igrave;&agrave;&ograve;&eth;&egrave;&ouml;&uuml;?">
+		<param name="Local" value="Додавання матриць.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="&szlig;&ecirc; &eth;&aring;&agrave;&euml;&sup3;&ccedil;&oacute;&ordm;&ograve;&uuml;&ntilde;&yuml; &acirc;&sup3;&auml;&iacute;&sup3;&igrave;&agrave;&iacute;&iacute;&yuml; &igrave;&agrave;&ograve;&eth;&egrave;&ouml;&uuml;?">
+		<param name="Local" value="Віднімання матриць.htm">
+		<param name="URL" value="vidn.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="&szlig;&ecirc; &eth;&aring;&agrave;&euml;&sup3;&ccedil;&oacute;&ordm;&ograve;&uuml;&ntilde;&yuml; &igrave;&iacute;&icirc;&aelig;&aring;&iacute;&iacute;&yuml; &igrave;&agrave;&ograve;&eth;&egrave;&ouml;&sup3; &iacute;&agrave; &divide;&egrave;&ntilde;&euml;&icirc;?">
+		<param name="Local" value="Множення матриці на число.htm">
+		</OBJECT>
+</UL>
+</BODY></HTML>

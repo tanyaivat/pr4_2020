@@ -1,0 +1,19 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=пр3.chm
+Contents file=Table of Contents.hhc
+Default topic=Загальні відомості про програму.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x422 Українська (Україна)
+Title=Довідка до власної програми
+
+
+[FILES]
+Загальні відомості про програму.htm
+Додавання матриць.htm
+Віднімання матриць.htm
+Множення матриці на число.htm
+
+[INFOTYPES]
+
